@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BJPK10.iml" filepath="$PROJECT_DIR$/BJPK10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckVersion/CheckVersion.iml" filepath="$PROJECT_DIR$/CheckVersion/CheckVersion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewRefresh/NewRefresh.iml" filepath="$PROJECT_DIR$/NewRefresh/NewRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bjpk10/bjpk10.iml" filepath="$PROJECT_DIR$/bjpk10/bjpk10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myLibrary/myLibrary.iml" filepath="$PROJECT_DIR$/myLibrary/myLibrary.iml" />
+    </modules>
+  </component>
+</project>
